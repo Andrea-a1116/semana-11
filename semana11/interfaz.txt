@@ -1,0 +1,3 @@
+La interfaz sería organizada en varias secciones principales. En la parte superior, habría un formulario sencillo para crear una nueva causa, con campos para ingresar el título, una breve descripción y la fecha límite. Debajo, se mostraría una lista de causas existentes, cada una en un recuadro con el título, la descripción y la fecha de la causa. En cada recuadro, habría un botón de apoyo, acompañado de un contador que indique las personas que han apoyado esa causa. La apariencia sería limpia y minimalista, asegurando que no se muestre ninguna información privada de los usuarios y facilitando la participación de todos de forma intuitiva.
+
+

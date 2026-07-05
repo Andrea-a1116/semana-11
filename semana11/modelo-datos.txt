@@ -1,0 +1,26 @@
+Entidad: Proyecto
+
+Campos principales:
+
+id
+nombre
+descripcion
+fecha_inicio
+fecha_fin
+estado
+
+Propósito:
+
+Registrar los proyectos comunitarios que se realizan en la plataforma para gestionar su seguimiento y participación.
+Entidad: Voluntario
+
+Campos principales:
+
+id
+nombre
+telefono
+email
+proyecto_id
+
+Propósito:
+Almacenar la información de los voluntarios que participan en los proyectos, facilitando la organización y comunicación.
